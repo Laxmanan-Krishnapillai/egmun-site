@@ -1,9 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
-import { AuthModal } from "../components/authModal";
-import { Login } from "../components/login";
-import { OverlayProvider } from "react-aria";
 const Home: NextPage = () => {
   return (
     <>
